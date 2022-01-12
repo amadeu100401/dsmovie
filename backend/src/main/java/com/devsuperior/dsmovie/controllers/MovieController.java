@@ -15,7 +15,7 @@ import com.devsuperior.dsmovie.dto.ScoreDTO;
 import com.devsuperior.dsmovie.services.MovieService;
 
 @RestController
-@RequestMapping(value = "/scores")
+@RequestMapping(value = "/movies")
 public class MovieController {
 	
 	
